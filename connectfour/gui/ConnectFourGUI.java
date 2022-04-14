@@ -21,8 +21,6 @@ import java.util.Objects;
  * This class is both the view and controller,
  * according to the MVC architectural pattern.
  *
- * @author : Kruthi Nagabhushan
- * @author : Sreenivas Reddy Sagili
  */
 
 public class ConnectFourGUI extends Application implements Observer<ConnectFourBoard> {

@@ -10,7 +10,6 @@ import java.util.Scanner;
  * The plain text UI for Connect Four. This class encapsulates both
  * the View and Controller portions of the MVC architecture.
  *
- * @author RIT CS
  */
 public class ConnectFourPTUI implements Observer<ConnectFourBoard> {
     /** the board is the Model */

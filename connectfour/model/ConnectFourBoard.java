@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * The model for the Connect Four game.
  *
- * @author RIT CS
  */
 public class ConnectFourBoard {
     /** the number of rows */
